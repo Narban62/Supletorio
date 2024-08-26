@@ -1,4 +1,4 @@
-es una aplicación desarrollada en Java utilizando Spring Boot. Su propósito principal es gestionar una lista de tareas, permitiendo a los usuarios crear, actualizar, listar y eliminar tareas. Cada tarea tiene un título, descripción, estado (pendiente o completada), y una fecha de creación. Este proyecto implementa principios de Inversión de Dependencias mediante el uso de interfaces, lo que facilita la escalabilidad y mantenibilidad del código.
+Es una aplicación desarrollada en Java utilizando Spring Boot. Su propósito principal es gestionar una lista de tareas, permitiendo a los usuarios crear, actualizar, listar y eliminar tareas. Cada tarea tiene un título, descripción, estado (pendiente o completada), y una fecha de creación. Este proyecto implementa principios de Inversión de Dependencias mediante el uso de interfaces, lo que facilita la escalabilidad y mantenibilidad del código.
 
 #Características
 Gestión de Tareas: Crea, actualiza, lista y elimina tareas.
